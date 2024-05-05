@@ -1,0 +1,18 @@
+
+]
+java:S1220""Move this file to a named package.8Éó…µó1J$89ed07db-194e-404e-a06e-85fba369899d
+
+java:S1854"<Remove this useless assignment to local variable "sinopsis".(€ßû˜8Ûó…µó1J$c57f21e9-c4d4-4812-afa0-44abc23e74ad
+r	java:S106"+Replace this use of System.out by a logger.(…ØñŸþÿÿÿÿ8áó…µó1J$ca3baf79-ff2c-4a16-894a-18b473788d3c
+~	java:S125"<This block of commented-out lines of code should be removed.(äÎ¾ß8Þó…µó1J$ed436e23-3919-4378-a7d7-116c95d6f609
+p
+java:S1481"-Remove this unused "sinopsis" local variable.(€ßû˜8àó…µó1J$c5691477-719d-424e-b4cb-d68d778e0f0a
+r	java:S106"+Replace this use of System.out by a logger.(Æ©å¸ùÿÿÿÿ8âó…µó1J$26772cc8-4dab-4586-abfc-483fcaa06c0f
+m	java:S106"+Replace this use of System.out by a logger.(äÔ‹8ãó…µó1J$bb604955-1aab-45d1-b1f5-b7b1ddb3470f
+r	java:S106"+Replace this use of System.out by a logger.(Ö±Œ¥þÿÿÿÿ8ãó…µó1J$e1f8928a-e6cd-42b2-97d0-6951a7a1d1e8
+l	java:S106"+Replace this use of System.out by a logger.(Õ „f8äó…µó1J$e73ef0ba-c9de-4b5f-ae78-09b8593bf885
+r	java:S106"+Replace this use of System.out by a logger.(äíÓÿþÿÿÿÿ8åó…µó1J$465e9a1b-6bfb-4bcc-a288-874d3016f332
+m	java:S106"+Replace this use of System.out by a logger.(©Æ­õ8æó…µó1J$7073c80b-3df0-4f13-bd3b-15defe60cb6b
+m	java:S106"+Replace this use of System.out by a logger.(Ô‚Ëò8ùó…µó1J$606f583c-8300-4436-93d7-1674b857b36a
+m	java:S106!"+Replace this use of System.out by a logger.(Ðáâ´8ûó…µó1J$753524da-60d2-4bed-8669-782373a47a4c
+r	java:S106%"+Replace this use of System.out by a logger.(£Öå¤øÿÿÿÿ8ÏÎ†µó1J$d74b8e89-0889-49c1-9ccc-8428605f1d45
